@@ -2,10 +2,10 @@
 
 This repository contains an R script, an Rmarkdown script for performing portfolio analysis on an excel file. 
 
-Files:
-portfolio_analysis.R: R script for processing, analysing and preparing the data
-report.Rmd: Rmarkdown script for exporting a html report containing the analysis 
-data: Excel file including portfolio data
+Files:\
+portfolio_analysis.R: R script for processing, analysing and preparing the data\
+report.Rmd: Rmarkdown script for exporting a html report containing the analysis\
+data: Excel file including portfolio data\
 
 Instructions:
 1. Clone the repository to your local machine.
